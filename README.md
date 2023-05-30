@@ -23,7 +23,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Screenshot
 
-![Design preview for the Social Proff Section coding challenge](https://www.frontendmentor.io/solutions/social-proof-section-Gzf5Cl3E5M)
+![Design preview for the Social Proff Section coding challenge](https://github.com/brycezubi/Social-Proof-Section/blob/main/images/desktop-preview%20(4).jpg)
 
 ### Links
 
